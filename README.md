@@ -1,1 +1,1 @@
-# practise-project
+# practise-project is a trial project
